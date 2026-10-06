@@ -1,4 +1,4 @@
-# <Name> 
+# <AdityaKalita> 
 * Role: Student
 * Team: ACJ
 * Year at UCSD: Second
